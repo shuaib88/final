@@ -17,7 +17,7 @@ answers = {
 #     items[-1]
 #
 #    will retrieve the last item.
-  1: False,
+  1: True,
 
 # 2. The "DRY" acronym stands for "Don't Rewrite Youtube"
   2: False,

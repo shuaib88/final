@@ -25,4 +25,3 @@ class FlightSchedule:
 		return longestFlight[0]
 
 
-		# make sure to assign .flights attribute
